@@ -2,7 +2,7 @@
 set -l FINDUTILS $(brew --prefix findutils)
 set -l BIN_FIND_GNU $FINDUTILS/bin
 if [ -d $BIN_FIND_GNU ]
-    fish_add_path -g $BIN_FIND_GNU
+    fish_add_path -U $BIN_FIND_GNU
 end
 set -e BIN_FIND_GNU
 

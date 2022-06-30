@@ -5,7 +5,7 @@ if [ -d $GOROOT ]
     if ! test -e "$GOPATH/src/github.com"
         mkdir -p "$GOPATH/src/github.com"
     end
-    fish_add_path -g $GOROOT/bin $GOPATH/bin
+    fish_add_path -U $GOROOT/bin $GOPATH/bin
 else
     set -e GOROOT
 end
