@@ -3,8 +3,6 @@ alias q exit
 
 if status is-interactive
     # commands to run in interactive sessions can go here
+    alias drop-citrix 'fd "com.citrix.*.plist" /Library/ -tf -X rm -rf'
 end
 
-### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
-set --export --prepend PATH "/Users/akulynyak/.rd/bin"
-### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
