@@ -1,4 +1,4 @@
-set -gx Z_LUA $(brew --prefix z.lua)/share/z.lua/z.lua
+set -gx Z_LUA $HOME/.local/opt/z.lua/z.lua
 if test -f $Z_LUA
     $Z_LUA --init fish | source
     set -gx _ZL_CD cd
