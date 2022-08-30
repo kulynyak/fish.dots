@@ -21,3 +21,6 @@ functions/pushdf.fish
 functions/rm-relocated.fish
 functions/rm.fish
 functions/zcat.fish
+functions/co.fish
+functions/cod.fish
+fish_plugins
