@@ -2,7 +2,7 @@
 
 # home/bin
 
-set -l CONFLUENT_VER "7.0.1"
+set -l CONFLUENT_VER "7.3.1"
 set -l CONFLUENT_BIN "$HOME/.config/confluent-$CONFLUENT_VER/bin"
 if [ -d $CONFLUENT_BIN ]
     fish_add_path -U $CONFLUENT_BIN

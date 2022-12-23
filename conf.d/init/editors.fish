@@ -1,3 +1,3 @@
-_regUV EDITOR hx
+_regUV EDITOR nvim
 # _regUV VISUAL code
 _regUV PAGER less
