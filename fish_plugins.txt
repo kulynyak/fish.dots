@@ -2,4 +2,3 @@ fish.plugin-fzf-git
 fish.plugin-brew
 fish.plugin-nnn
 PatrickF1/fzf.fish
-reitzig/sdkman-for-fish@v1.4.0

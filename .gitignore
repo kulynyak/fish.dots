@@ -1,5 +1,4 @@
 fish_variables
-conf.d/init/_nvm.fish
 conf.d/init/anaconda.fish
 conf.d/init/findutils.fish
 conf.d/init/gettext.fish
