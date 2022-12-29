@@ -1,1 +1,0 @@
-/Users/akulynyak/.config/fish/conf.d/init/os_darwin/flutter.fish
