@@ -1,0 +1,1 @@
+/Users/akulynyak/.config/fish/conf.d/os_darwin/pb_copy.fish

@@ -1,0 +1,1 @@
+/Users/akulynyak/.config/fish/conf.d/os_darwin/fish.plugin-brew.fish

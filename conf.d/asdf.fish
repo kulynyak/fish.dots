@@ -1,1 +1,1 @@
-/home/ra/.config/fish/conf.d/os_linux/asdf.fish
+/Users/akulynyak/.config/fish/conf.d/os_darwin/asdf.fish
