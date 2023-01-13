@@ -55,4 +55,10 @@ if set -q X_FORCE_RELOAD_CONFIG
             source $cfg
         end
     end
+    # execute files in the init/once folder
+    for once in $_U_INIT_FISH_FOLDER/once/*.fish
+        if [ -f $cfg ]
+            source $cfg
+        end
+    end
 end

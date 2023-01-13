@@ -7,7 +7,9 @@ conf.d/init/go.fish
 conf.d/init/java.fish
 conf.d/init/maven.fish
 conf.d/init/path.fish
+conf.d/init/asdf.fish
 conf.d/z_lua.fish
+conf.d/asdf_direnv.fish
 functions/bbd.fish
 functions/brew_update_packages.fish
 functions/cat.fish
