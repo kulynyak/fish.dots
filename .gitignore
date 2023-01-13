@@ -10,6 +10,9 @@ conf.d/init/path.fish
 conf.d/init/asdf.fish
 conf.d/z_lua.fish
 conf.d/asdf_direnv.fish
+conf.d/fish.plugin-brew.fish
+conf.d/pb_copy.fish
+conf.d/asdf.fish
 functions/bbd.fish
 functions/brew_update_packages.fish
 functions/cat.fish
