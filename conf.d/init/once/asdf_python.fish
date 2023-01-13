@@ -1,5 +1,5 @@
-set -l ASDF_PLUGIN direnv
-set -l ASDF_PLUGIN_VER 2.32.2
+set -l ASDF_PLUGIN python
+set -l ASDF_PLUGIN_VER 3.11.1
 
 asdf plugin add $ASDF_PLUGIN
 asdf install $ASDF_PLUGIN $ASDF_PLUGIN_VER

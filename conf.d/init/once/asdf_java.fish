@@ -1,5 +1,5 @@
-set -l ASDF_PLUGIN direnv
-set -l ASDF_PLUGIN_VER 2.32.2
+set -l ASDF_PLUGIN java
+set -l ASDF_PLUGIN_VER temurin-17.0.5+8
 
 asdf plugin add $ASDF_PLUGIN
 asdf install $ASDF_PLUGIN $ASDF_PLUGIN_VER
