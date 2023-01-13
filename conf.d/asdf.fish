@@ -1,1 +1,0 @@
-/home/ra/.config/fish/conf.d/os_linux/asdf.fish
