@@ -49,6 +49,7 @@ if set -q X_FORCE_RELOAD_CONFIG
     if count $_U_INIT_FISH_FOLDER/os_$os/*.fish >/dev/null
         ln -s $_U_INIT_FISH_FOLDER/os_$os/*.fish $_U_INIT_FISH_FOLDER/ &>/dev/null
     end
+    source $HOME/.config/fish/conf.d/asdf.fish
     # execute files in the init folder
     for cfg in $_U_INIT_FISH_FOLDER/*.fish
         if [ -f $cfg ]
