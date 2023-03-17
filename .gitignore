@@ -28,3 +28,4 @@ functions/zcat.fish
 functions/co.fish
 functions/cod.fish
 fish_plugins
+fishd.tmp.*
